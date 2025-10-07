@@ -44,7 +44,7 @@ body {
   background-color: red;
   background: linear-gradient(transparent, black);
   position: absolute;
-  bottom: 0px;
+  bottom: -90px;
   transition: all ease 0.5s;
   display: flex;
   align-items: center;
