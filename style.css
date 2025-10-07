@@ -55,6 +55,6 @@ i {
   font-size: 23px;
   font-family: machina;
 }
-/* .card:hover .text{
+.card:hover .text{
     bottom: 0px;
-} */
+}
